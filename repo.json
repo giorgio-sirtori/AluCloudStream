@@ -1,0 +1,9 @@
+{
+  "name": "AluCloudStream",
+  "iconUrl": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/master/repo_icon.png",
+  "description": "Personal fork. CalcioStreaming points at corner.direttecommunity.online",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/plugins.json"
+  ]
+}

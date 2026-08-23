@@ -1,0 +1,327 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/AltaDefinizione.cs3",
+        "status": 0,
+        "version": 8,
+        "name": "AltaDefinizione",
+        "internalName": "AltaDefinizione",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Movies and Tv Series from Altadefinizione",
+        "fileSize": 21660,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Documentary"
+        ],
+        "iconUrl": "https://altadefinizione.autos/templates/Dark/img/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-b579493dfeb4dab19b1c58933f5e7072b05f8754bb3076ad96f1889f0dc821ca"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/AnimeUnity.cs3",
+        "status": 1,
+        "version": 26,
+        "name": "AnimeUnity",
+        "internalName": "AnimeUnity",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Anime from AnimeUnity",
+        "fileSize": 134253,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://www.animeunity.so/apple-touch-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e110f6936c67760b811ef609ab2ae24d1e2c0236a5d915cd65706cec4317324d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/AnimeWorld.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "AnimeWorld",
+        "internalName": "AnimeWorld",
+        "authors": [
+            "Gian-Fr",
+            "doGior"
+        ],
+        "description": "Anime from AnimeWorld. This plugin is a fork of the AnimeWorld plugin in the ItalianProvider repo",
+        "fileSize": 40969,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png?s",
+        "apiVersion": 1,
+        "fileHash": "sha256-77b5b084b2ecf494d8f4a3097d0fd4e0c08a6afb9242f5823c23c4311af5b2a5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/Arte.cs3",
+        "status": 1,
+        "version": 4,
+        "name": "Arte",
+        "internalName": "Arte",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Magazine shows, concerts, documentaries, and more: the European culture channel's programmes available to stream free of charge on arte.tv",
+        "fileSize": 36308,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "en",
+        "tvTypes": [
+            "Documentary"
+        ],
+        "iconUrl": "https://static-cdn.arte.tv/replay/favicons/favicon-194x194.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-181f5e667468328607a6651376b456933eae1137fcf71cc5d4210c2e1f992c0d"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/CalcioStreaming.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "CalcioStreaming",
+        "internalName": "CalcioStreaming",
+        "authors": [
+            "Gian-Fr",
+            "Adippe",
+            "doGior"
+        ],
+        "description": "\u26a0\ufe0fUse AdGuard DNS in the app settings\u26a0\ufe0f Live sport from DiretteCommunity (ex CalcioStreaming). Rewritten against the new events API",
+        "fileSize": 30654,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://corner.direttecommunity.online/templates/calciostreaming1/images/icons/apple-touch-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-7b1f6c88b72d080ba199da66c2454c65a7d7ffce748ee7f137e526a957a46710"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/CorsaroNero.cs3",
+        "status": 0,
+        "version": 4,
+        "name": "CorsaroNero",
+        "internalName": "CorsaroNero",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Torrents from Il Corsaro Nero. If something doesn't work the torrent has probably not enough seeds",
+        "fileSize": 31775,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "Movie",
+            "Torrent"
+        ],
+        "iconUrl": "https://ilcorsaronero.link/assets/images/icon-dca0f2c8f780ee155024c67b63f5ebc5.svg",
+        "apiVersion": 1,
+        "fileHash": "sha256-ee8cc8e6fffcfd3bf7421ba8d19c81c00a8d5ad9a9f03b11ac7875b1df7acf76"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/IlCorsaroViola.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "IlCorsaroViola",
+        "internalName": "IlCorsaroViola",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Torrents from Il Corsaro Viola",
+        "fileSize": 44675,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Torrent",
+            "Documentary"
+        ],
+        "iconUrl": "https://i.imgur.com/OPM9e9p.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5e5fad1f4fab4a88450c02d6ca432a661cfde42e4e7debf170496a4b49438088"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/IPTV.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "IPTV",
+        "internalName": "IPTV",
+        "authors": [
+            "anhdaden",
+            "dogior"
+        ],
+        "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
+        "fileSize": 40007,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-044395200b35f3497926e5d92cce39c2639fe9e48b21cd7a37da28cbddcdad82"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/Nebula.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Nebula",
+        "internalName": "Nebula",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Plugin to watch the free videos and ONLY THE FREE VIDEOS from nebula.tv",
+        "fileSize": 23974,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "en",
+        "tvTypes": [
+            "Others"
+        ],
+        "iconUrl": "https://nebula.tv/apple-touch-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-fe6506acd214848848120a1b96052dec7539d18db9e96c110fe20345b5561500"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/SimklProvider.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "SimklProvider",
+        "internalName": "SimklProvider",
+        "authors": [
+            "doGior"
+        ],
+        "description": "No Streaming. This is just to open the info page of a show from the simkl library",
+        "fileSize": 11790,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "en",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "TvSeries",
+            "Movie",
+            "Documentary",
+            "Cartoon"
+        ],
+        "iconUrl": "https://eu.simkl.in/img_favicon/v2/favicon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6ee0015ab2efd56e8e204ec62ab885a589a25747e4f5db0e00f497628ddc2d01"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/StreamCenter.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "StreamCenter",
+        "internalName": "StreamCenter",
+        "authors": [
+            "Italiani"
+        ],
+        "description": "Film, Serie TV, Anime e TV in un unico posto.",
+        "fileSize": 1407698,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6e6a22dad53e005a62b6d8cb453d29a51841846c8aba943ff75eae4e726a6dbb"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/StreamingCommunity.cs3",
+        "status": 1,
+        "version": 33,
+        "name": "StreamingCommunity",
+        "internalName": "StreamingCommunity",
+        "authors": [
+            "doGior"
+        ],
+        "description": "TV Shows and Movies from StreamingCommunity",
+        "fileSize": 60707,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "language": "it",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary",
+            "Cartoon"
+        ],
+        "iconUrl": "https://streamingunity.dog/apple-touch-icon.png?v=2",
+        "apiVersion": 1,
+        "fileHash": "sha256-04daff99e0058326bf3857cd0fddc4a78635890675fb7a34516183133000fc7e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/TV.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "TV",
+        "internalName": "TV",
+        "authors": [
+            "Gian-Fr",
+            "Adippe",
+            "doGior"
+        ],
+        "description": "Live streams from the Free TV github repository. Forked from the Free-TV plugin in the ItalianProvider repo",
+        "fileSize": 29221,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/TV/television.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-eee2084006e447f4a65a0043de2e2d0fda664856aa3502a0226d90b981384799"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/Vavoo.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Vavoo",
+        "internalName": "Vavoo",
+        "authors": [
+            "doGior"
+        ],
+        "description": "\u26a0\ufe0f W.I.P. \u26a0\ufe0f TV channels from vavoo.to",
+        "fileSize": 36183,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://vavoo.tv/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-90d25c3a26300098fba8b4174a622479d26b650f5c4ec8dd8a75df3356fb6ee3"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/giorgio-sirtori/AluCloudStream/builds/YouTube.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "YouTube",
+        "internalName": "YouTube",
+        "authors": [
+            "doGior"
+        ],
+        "description": "Videos, playlists and channels from YouTube",
+        "fileSize": 40001,
+        "repositoryUrl": "https://github.com/giorgio-sirtori/AluCloudStream",
+        "tvTypes": [
+            "Others"
+        ],
+        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5abdeac48b9d4cbdeccd3b4b5944462906599061ac93088addb60f24dd3608fa"
+    }
+]
