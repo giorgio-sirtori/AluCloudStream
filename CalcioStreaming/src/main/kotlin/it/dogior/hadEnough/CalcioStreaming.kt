@@ -12,7 +12,7 @@ import kotlin.io.encoding.Base64
 
 class CalcioStreaming : MainAPI() {
     override var lang = "it"
-    override var mainUrl = "https://fig.direttecommunity.online/"
+    override var mainUrl = "https://corner.direttecommunity.online"
     override var name = "CalcioStreaming"
     override val hasMainPage = true
     override val hasChromecastSupport = true

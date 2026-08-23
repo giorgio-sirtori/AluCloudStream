@@ -20,7 +20,7 @@ Questi sono i plugin disponibili al momento
 | AnimeUnity         | https://www.animeunity.so                              |                Anime                |    🇮🇹    |        ✅        |                                                                                                                                                                                                           |
 | AnimeWorld         | https://www.animeworld.ac                              |                Anime                |    🇮🇹    |        ✅        | |
 | Arte         | https://www.arte.tv                              |                Documentari                |    🇮🇹    |        ✅        | |
-| CalcioStreaming    | https://vod.direttecommunity.online/                       |             Sport Live              |    🇮🇹    |        ✅        |                                                                                                                                    |
+| CalcioStreaming    | https://corner.direttecommunity.online/                       |             Sport Live              |    🇮🇹    |        ✅        |                                                                                                                                    |
 | CorsaroNero    | https://ilcorsaronero.link                       |             Film, Torrent              |    🇮🇹    |        ❌        |  |
 | IPTV    |                        |             Live              |    🇮🇹    |        ✅        | Aggiungi le tue liste iptv nelle impostazioni  |
 | Il Corsaro Viola    |    https://icv.stremio.dpdns.org/                    |             Film, TV Show, Cartoni, Documentari, Torrent              |    🇮🇹    |        ✅        |   |
