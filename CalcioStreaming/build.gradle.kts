@@ -1,12 +1,12 @@
 // use an integer for version numbers
-version = 11
+version = 12
 
 
 cloudstream {
     language = "it"
     // All of these properties are optional, you can safely remove them
 
-     description = "⚠️Use AdGuard DNS in the app settings⚠️ Live streams from the CalcioStreaming. Forked from the CalcioStreaming plugin in the ItalianProvider repo"
+     description = "⚠️Use AdGuard DNS in the app settings⚠️ Live sport from DiretteCommunity (ex CalcioStreaming). Rewritten against the new events API"
     authors = listOf("Gian-Fr","Adippe","doGior")
 
     /**
